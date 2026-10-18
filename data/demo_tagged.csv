@@ -1,0 +1,129 @@
+paper,year,q_no,question,marks,topic,unit
+Demo Paper 1 (Nov 2018),2018,A1,[synthetic demo question] about binary trees,2,Binary trees,Unit 3 - Trees
+Demo Paper 1 (Nov 2018),2018,A2,[synthetic demo question] about linked lists,2,Linked lists,Unit 2 - Linear Structures
+Demo Paper 1 (Nov 2018),2018,A3,[synthetic demo question] about heaps,2,Heaps,Unit 3 - Trees
+Demo Paper 1 (Nov 2018),2018,A4,[synthetic demo question] about arrays and strings,2,Arrays and strings,Unit 1 - Introduction
+Demo Paper 1 (Nov 2018),2018,A5,[synthetic demo question] about tree traversals,2,Tree traversals,Unit 3 - Trees
+Demo Paper 1 (Nov 2018),2018,A6,[synthetic demo question] about binary trees,2,Binary trees,Unit 3 - Trees
+Demo Paper 1 (Nov 2018),2018,A7,[synthetic demo question] about arrays and strings,2,Arrays and strings,Unit 1 - Introduction
+Demo Paper 1 (Nov 2018),2018,A8,[synthetic demo question] about binary search trees,2,Binary search trees,Unit 3 - Trees
+Demo Paper 1 (Nov 2018),2018,A9,[synthetic demo question] about complexity analysis,2,Complexity analysis,Unit 1 - Introduction
+Demo Paper 1 (Nov 2018),2018,A10,[synthetic demo question] about binary search trees,2,Binary search trees,Unit 3 - Trees
+Demo Paper 1 (Nov 2018),2018,B11,[synthetic demo question] about arrays and strings,13,Arrays and strings,Unit 1 - Introduction
+Demo Paper 1 (Nov 2018),2018,B12,[synthetic demo question] about linked lists,13,Linked lists,Unit 2 - Linear Structures
+Demo Paper 1 (Nov 2018),2018,B13,[synthetic demo question] about binary search trees,13,Binary search trees,Unit 3 - Trees
+Demo Paper 1 (Nov 2018),2018,B14,[synthetic demo question] about sorting algorithms,13,Sorting algorithms,Unit 5 - Sorting and Hashing
+Demo Paper 1 (Nov 2018),2018,B15,[synthetic demo question] about linked lists,13,Linked lists,Unit 2 - Linear Structures
+Demo Paper 1 (Nov 2018),2018,C16,[synthetic demo question] about stacks,15,Stacks,Unit 2 - Linear Structures
+Demo Paper 2 (Apr 2019),2019,A1,[synthetic demo question] about tree traversals,2,Tree traversals,Unit 3 - Trees
+Demo Paper 2 (Apr 2019),2019,A2,[synthetic demo question] about searching,2,Searching,Unit 5 - Sorting and Hashing
+Demo Paper 2 (Apr 2019),2019,A3,[synthetic demo question] about tree traversals,2,Tree traversals,Unit 3 - Trees
+Demo Paper 2 (Apr 2019),2019,A4,[synthetic demo question] about binary search trees,2,Binary search trees,Unit 3 - Trees
+Demo Paper 2 (Apr 2019),2019,A5,[synthetic demo question] about hashing,2,Hashing,Unit 5 - Sorting and Hashing
+Demo Paper 2 (Apr 2019),2019,A6,[synthetic demo question] about complexity analysis,2,Complexity analysis,Unit 1 - Introduction
+Demo Paper 2 (Apr 2019),2019,A7,[synthetic demo question] about sorting algorithms,2,Sorting algorithms,Unit 5 - Sorting and Hashing
+Demo Paper 2 (Apr 2019),2019,A8,[synthetic demo question] about binary trees,2,Binary trees,Unit 3 - Trees
+Demo Paper 2 (Apr 2019),2019,A9,[synthetic demo question] about linked lists,2,Linked lists,Unit 2 - Linear Structures
+Demo Paper 2 (Apr 2019),2019,A10,[synthetic demo question] about linked lists,2,Linked lists,Unit 2 - Linear Structures
+Demo Paper 2 (Apr 2019),2019,B11,[synthetic demo question] about binary trees,13,Binary trees,Unit 3 - Trees
+Demo Paper 2 (Apr 2019),2019,B12,[synthetic demo question] about sorting algorithms,13,Sorting algorithms,Unit 5 - Sorting and Hashing
+Demo Paper 2 (Apr 2019),2019,B13,[synthetic demo question] about linked lists,13,Linked lists,Unit 2 - Linear Structures
+Demo Paper 2 (Apr 2019),2019,B14,[synthetic demo question] about tree traversals,13,Tree traversals,Unit 3 - Trees
+Demo Paper 2 (Apr 2019),2019,B15,[synthetic demo question] about tree traversals,13,Tree traversals,Unit 3 - Trees
+Demo Paper 2 (Apr 2019),2019,C16,[synthetic demo question] about binary trees,15,Binary trees,Unit 3 - Trees
+Demo Paper 3 (Nov 2019),2019,A1,[synthetic demo question] about tree traversals,2,Tree traversals,Unit 3 - Trees
+Demo Paper 3 (Nov 2019),2019,A2,[synthetic demo question] about arrays and strings,2,Arrays and strings,Unit 1 - Introduction
+Demo Paper 3 (Nov 2019),2019,A3,[synthetic demo question] about arrays and strings,2,Arrays and strings,Unit 1 - Introduction
+Demo Paper 3 (Nov 2019),2019,A4,[synthetic demo question] about stacks,2,Stacks,Unit 2 - Linear Structures
+Demo Paper 3 (Nov 2019),2019,A5,[synthetic demo question] about heaps,2,Heaps,Unit 3 - Trees
+Demo Paper 3 (Nov 2019),2019,A6,[synthetic demo question] about binary search trees,2,Binary search trees,Unit 3 - Trees
+Demo Paper 3 (Nov 2019),2019,A7,[synthetic demo question] about binary trees,2,Binary trees,Unit 3 - Trees
+Demo Paper 3 (Nov 2019),2019,A8,[synthetic demo question] about tree traversals,2,Tree traversals,Unit 3 - Trees
+Demo Paper 3 (Nov 2019),2019,A9,[synthetic demo question] about binary search trees,2,Binary search trees,Unit 3 - Trees
+Demo Paper 3 (Nov 2019),2019,A10,[synthetic demo question] about binary trees,2,Binary trees,Unit 3 - Trees
+Demo Paper 3 (Nov 2019),2019,B11,[synthetic demo question] about shortest paths,13,Shortest paths,Unit 4 - Graphs
+Demo Paper 3 (Nov 2019),2019,B12,[synthetic demo question] about graph representation,13,Graph representation,Unit 4 - Graphs
+Demo Paper 3 (Nov 2019),2019,B13,[synthetic demo question] about queues,13,Queues,Unit 2 - Linear Structures
+Demo Paper 3 (Nov 2019),2019,B14,[synthetic demo question] about tree traversals,13,Tree traversals,Unit 3 - Trees
+Demo Paper 3 (Nov 2019),2019,B15,[synthetic demo question] about tree traversals,13,Tree traversals,Unit 3 - Trees
+Demo Paper 3 (Nov 2019),2019,C16,[synthetic demo question] about sorting algorithms,15,Sorting algorithms,Unit 5 - Sorting and Hashing
+Demo Paper 4 (Apr 2021),2021,A1,[synthetic demo question] about bfs and dfs,2,BFS and DFS,Unit 4 - Graphs
+Demo Paper 4 (Apr 2021),2021,A2,[synthetic demo question] about binary trees,2,Binary trees,Unit 3 - Trees
+Demo Paper 4 (Apr 2021),2021,A3,[synthetic demo question] about hashing,2,Hashing,Unit 5 - Sorting and Hashing
+Demo Paper 4 (Apr 2021),2021,A4,[synthetic demo question] about linked lists,2,Linked lists,Unit 2 - Linear Structures
+Demo Paper 4 (Apr 2021),2021,A5,[synthetic demo question] about binary search trees,2,Binary search trees,Unit 3 - Trees
+Demo Paper 4 (Apr 2021),2021,A6,[synthetic demo question] about shortest paths,2,Shortest paths,Unit 4 - Graphs
+Demo Paper 4 (Apr 2021),2021,A7,[synthetic demo question] about linked lists,2,Linked lists,Unit 2 - Linear Structures
+Demo Paper 4 (Apr 2021),2021,A8,[synthetic demo question] about binary search trees,2,Binary search trees,Unit 3 - Trees
+Demo Paper 4 (Apr 2021),2021,A9,[synthetic demo question] about complexity analysis,2,Complexity analysis,Unit 1 - Introduction
+Demo Paper 4 (Apr 2021),2021,A10,[synthetic demo question] about heaps,2,Heaps,Unit 3 - Trees
+Demo Paper 4 (Apr 2021),2021,B11,[synthetic demo question] about shortest paths,13,Shortest paths,Unit 4 - Graphs
+Demo Paper 4 (Apr 2021),2021,B12,[synthetic demo question] about tree traversals,13,Tree traversals,Unit 3 - Trees
+Demo Paper 4 (Apr 2021),2021,B13,[synthetic demo question] about sorting algorithms,13,Sorting algorithms,Unit 5 - Sorting and Hashing
+Demo Paper 4 (Apr 2021),2021,B14,[synthetic demo question] about binary trees,13,Binary trees,Unit 3 - Trees
+Demo Paper 4 (Apr 2021),2021,B15,[synthetic demo question] about graph representation,13,Graph representation,Unit 4 - Graphs
+Demo Paper 4 (Apr 2021),2021,C16,[synthetic demo question] about tree traversals,15,Tree traversals,Unit 3 - Trees
+Demo Paper 5 (Nov 2021),2021,A1,[synthetic demo question] about tree traversals,2,Tree traversals,Unit 3 - Trees
+Demo Paper 5 (Nov 2021),2021,A2,[synthetic demo question] about binary search trees,2,Binary search trees,Unit 3 - Trees
+Demo Paper 5 (Nov 2021),2021,A3,[synthetic demo question] about sorting algorithms,2,Sorting algorithms,Unit 5 - Sorting and Hashing
+Demo Paper 5 (Nov 2021),2021,A4,[synthetic demo question] about searching,2,Searching,Unit 5 - Sorting and Hashing
+Demo Paper 5 (Nov 2021),2021,A5,[synthetic demo question] about binary search trees,2,Binary search trees,Unit 3 - Trees
+Demo Paper 5 (Nov 2021),2021,A6,[synthetic demo question] about heaps,2,Heaps,Unit 3 - Trees
+Demo Paper 5 (Nov 2021),2021,A7,[synthetic demo question] about arrays and strings,2,Arrays and strings,Unit 1 - Introduction
+Demo Paper 5 (Nov 2021),2021,A8,[synthetic demo question] about graph representation,2,Graph representation,Unit 4 - Graphs
+Demo Paper 5 (Nov 2021),2021,A9,[synthetic demo question] about heaps,2,Heaps,Unit 3 - Trees
+Demo Paper 5 (Nov 2021),2021,A10,[synthetic demo question] about hashing,2,Hashing,Unit 5 - Sorting and Hashing
+Demo Paper 5 (Nov 2021),2021,B11,[synthetic demo question] about sorting algorithms,13,Sorting algorithms,Unit 5 - Sorting and Hashing
+Demo Paper 5 (Nov 2021),2021,B12,[synthetic demo question] about binary trees,13,Binary trees,Unit 3 - Trees
+Demo Paper 5 (Nov 2021),2021,B13,[synthetic demo question] about binary search trees,13,Binary search trees,Unit 3 - Trees
+Demo Paper 5 (Nov 2021),2021,B14,[synthetic demo question] about heaps,13,Heaps,Unit 3 - Trees
+Demo Paper 5 (Nov 2021),2021,B15,[synthetic demo question] about basic terminology,13,Basic terminology,Unit 1 - Introduction
+Demo Paper 5 (Nov 2021),2021,C16,[synthetic demo question] about binary search trees,15,Binary search trees,Unit 3 - Trees
+Demo Paper 6 (Apr 2022),2022,A1,[synthetic demo question] about linked lists,2,Linked lists,Unit 2 - Linear Structures
+Demo Paper 6 (Apr 2022),2022,A2,[synthetic demo question] about linked lists,2,Linked lists,Unit 2 - Linear Structures
+Demo Paper 6 (Apr 2022),2022,A3,[synthetic demo question] about arrays and strings,2,Arrays and strings,Unit 1 - Introduction
+Demo Paper 6 (Apr 2022),2022,A4,[synthetic demo question] about shortest paths,2,Shortest paths,Unit 4 - Graphs
+Demo Paper 6 (Apr 2022),2022,A5,[synthetic demo question] about linked lists,2,Linked lists,Unit 2 - Linear Structures
+Demo Paper 6 (Apr 2022),2022,A6,[synthetic demo question] about queues,2,Queues,Unit 2 - Linear Structures
+Demo Paper 6 (Apr 2022),2022,A7,[synthetic demo question] about binary search trees,2,Binary search trees,Unit 3 - Trees
+Demo Paper 6 (Apr 2022),2022,A8,[synthetic demo question] about sorting algorithms,2,Sorting algorithms,Unit 5 - Sorting and Hashing
+Demo Paper 6 (Apr 2022),2022,A9,[synthetic demo question] about linked lists,2,Linked lists,Unit 2 - Linear Structures
+Demo Paper 6 (Apr 2022),2022,A10,[synthetic demo question] about binary search trees,2,Binary search trees,Unit 3 - Trees
+Demo Paper 6 (Apr 2022),2022,B11,[synthetic demo question] about tree traversals,13,Tree traversals,Unit 3 - Trees
+Demo Paper 6 (Apr 2022),2022,B12,[synthetic demo question] about sorting algorithms,13,Sorting algorithms,Unit 5 - Sorting and Hashing
+Demo Paper 6 (Apr 2022),2022,B13,[synthetic demo question] about sorting algorithms,13,Sorting algorithms,Unit 5 - Sorting and Hashing
+Demo Paper 6 (Apr 2022),2022,B14,[synthetic demo question] about sorting algorithms,13,Sorting algorithms,Unit 5 - Sorting and Hashing
+Demo Paper 6 (Apr 2022),2022,B15,[synthetic demo question] about binary trees,13,Binary trees,Unit 3 - Trees
+Demo Paper 6 (Apr 2022),2022,C16,[synthetic demo question] about binary search trees,15,Binary search trees,Unit 3 - Trees
+Demo Paper 7 (Nov 2022),2022,A1,[synthetic demo question] about binary trees,2,Binary trees,Unit 3 - Trees
+Demo Paper 7 (Nov 2022),2022,A2,[synthetic demo question] about sorting algorithms,2,Sorting algorithms,Unit 5 - Sorting and Hashing
+Demo Paper 7 (Nov 2022),2022,A3,[synthetic demo question] about hashing,2,Hashing,Unit 5 - Sorting and Hashing
+Demo Paper 7 (Nov 2022),2022,A4,[synthetic demo question] about linked lists,2,Linked lists,Unit 2 - Linear Structures
+Demo Paper 7 (Nov 2022),2022,A5,[synthetic demo question] about linked lists,2,Linked lists,Unit 2 - Linear Structures
+Demo Paper 7 (Nov 2022),2022,A6,[synthetic demo question] about queues,2,Queues,Unit 2 - Linear Structures
+Demo Paper 7 (Nov 2022),2022,A7,[synthetic demo question] about queues,2,Queues,Unit 2 - Linear Structures
+Demo Paper 7 (Nov 2022),2022,A8,[synthetic demo question] about binary search trees,2,Binary search trees,Unit 3 - Trees
+Demo Paper 7 (Nov 2022),2022,A9,[synthetic demo question] about tree traversals,2,Tree traversals,Unit 3 - Trees
+Demo Paper 7 (Nov 2022),2022,A10,[synthetic demo question] about binary trees,2,Binary trees,Unit 3 - Trees
+Demo Paper 7 (Nov 2022),2022,B11,[synthetic demo question] about basic terminology,13,Basic terminology,Unit 1 - Introduction
+Demo Paper 7 (Nov 2022),2022,B12,[synthetic demo question] about binary search trees,13,Binary search trees,Unit 3 - Trees
+Demo Paper 7 (Nov 2022),2022,B13,[synthetic demo question] about binary trees,13,Binary trees,Unit 3 - Trees
+Demo Paper 7 (Nov 2022),2022,B14,[synthetic demo question] about tree traversals,13,Tree traversals,Unit 3 - Trees
+Demo Paper 7 (Nov 2022),2022,B15,[synthetic demo question] about hashing,13,Hashing,Unit 5 - Sorting and Hashing
+Demo Paper 7 (Nov 2022),2022,C16,[synthetic demo question] about heaps,15,Heaps,Unit 3 - Trees
+Demo Paper 8 (Apr 2023),2023,A1,[synthetic demo question] about tree traversals,2,Tree traversals,Unit 3 - Trees
+Demo Paper 8 (Apr 2023),2023,A2,[synthetic demo question] about tree traversals,2,Tree traversals,Unit 3 - Trees
+Demo Paper 8 (Apr 2023),2023,A3,[synthetic demo question] about heaps,2,Heaps,Unit 3 - Trees
+Demo Paper 8 (Apr 2023),2023,A4,[synthetic demo question] about arrays and strings,2,Arrays and strings,Unit 1 - Introduction
+Demo Paper 8 (Apr 2023),2023,A5,[synthetic demo question] about sorting algorithms,2,Sorting algorithms,Unit 5 - Sorting and Hashing
+Demo Paper 8 (Apr 2023),2023,A6,[synthetic demo question] about shortest paths,2,Shortest paths,Unit 4 - Graphs
+Demo Paper 8 (Apr 2023),2023,A7,[synthetic demo question] about sorting algorithms,2,Sorting algorithms,Unit 5 - Sorting and Hashing
+Demo Paper 8 (Apr 2023),2023,A8,[synthetic demo question] about sorting algorithms,2,Sorting algorithms,Unit 5 - Sorting and Hashing
+Demo Paper 8 (Apr 2023),2023,A9,[synthetic demo question] about binary search trees,2,Binary search trees,Unit 3 - Trees
+Demo Paper 8 (Apr 2023),2023,A10,[synthetic demo question] about binary search trees,2,Binary search trees,Unit 3 - Trees
+Demo Paper 8 (Apr 2023),2023,B11,[synthetic demo question] about linked lists,13,Linked lists,Unit 2 - Linear Structures
+Demo Paper 8 (Apr 2023),2023,B12,[synthetic demo question] about tree traversals,13,Tree traversals,Unit 3 - Trees
+Demo Paper 8 (Apr 2023),2023,B13,[synthetic demo question] about arrays and strings,13,Arrays and strings,Unit 1 - Introduction
+Demo Paper 8 (Apr 2023),2023,B14,[synthetic demo question] about arrays and strings,13,Arrays and strings,Unit 1 - Introduction
+Demo Paper 8 (Apr 2023),2023,B15,[synthetic demo question] about stacks,13,Stacks,Unit 2 - Linear Structures
+Demo Paper 8 (Apr 2023),2023,C16,[synthetic demo question] about linked lists,15,Linked lists,Unit 2 - Linear Structures

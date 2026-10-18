@@ -1,0 +1,12 @@
+{
+  "subject": "SAMPLE SUBJECT (replace with your real subject)",
+  "regulation": "SAMPLE (replace with your real regulation, e.g. 2021)",
+  "note": "Copy the unit and topic names from the OFFICIAL syllabus. The LLM is only allowed to pick topics from this list.",
+  "units": {
+    "Unit 1 - Introduction": ["Basic terminology", "Complexity analysis", "Arrays and strings"],
+    "Unit 2 - Linear Structures": ["Linked lists", "Stacks", "Queues"],
+    "Unit 3 - Trees": ["Binary trees", "Binary search trees", "Tree traversals", "Heaps"],
+    "Unit 4 - Graphs": ["Graph representation", "BFS and DFS", "Shortest paths"],
+    "Unit 5 - Sorting and Hashing": ["Sorting algorithms", "Searching", "Hashing"]
+  }
+}
